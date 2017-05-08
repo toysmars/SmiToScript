@@ -1,3 +1,3 @@
 # SmiToScript
 
-./SmiToScript.py <smi file path> [<encode>]
+./SmiToScript.py &lt;smi file path&gt; [&lt;encode&gt;]
